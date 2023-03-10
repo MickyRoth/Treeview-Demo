@@ -17,12 +17,12 @@ tv.column("1", width=75, anchor = "w")
 tv.column("2", width=70, anchor = "e")
 tv.column("3", width=100, anchor = "center")
 
-ds0=["Hans", "Hansmann",345, "0228-768976876"]
-ds1=["Otto", "Knarrsack",250, "0228-768976876"]
-ds2=["Helga", "Helgafels",1345, "0228-768976876"]
-ds3=["Hans", "Hansmann",345, "0228-768976876"]
-ds4=["Otto", "Knarrsack",250, "0228-768976876"]
-ds5=["Helga", "Helgafels",1345, "0228-768976876"]
+ds0=["Hans", "Hansmann",345, "0228-768971226"]
+ds1=["Otto", "Knarrsack",250, "0228-768911176"]
+ds2=["Helga", "Helgafels",1345, "0228-7689111876"]
+ds3=["Kalle", "Klawitter",3245, "0228-768911876"]
+ds4=["Otto", "Schulz",2510, "0228-7689761111"]
+ds5=["Greta", "Lachsberg",145, "0228-767897876"]
 
 tv.insert("", END, values=ds0)
 tv.insert("", END, values=ds1)
